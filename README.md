@@ -141,7 +141,7 @@ Please read this disclaimer carefully before using the HWID Spoofing Tool ("Tool
 
 Use at Your Own Risk: The HWID Spoofing Tool is provided for educational and informational purposes only. It is intended to demonstrate the concept of HWID spoofing and its potential applications. However, it is important to understand that the use of this Tool may violate the terms of service or terms of use of certain software or services. Use this Tool at your own risk.
 
-No Guarantees: Although the HWID Spoofing Tool has been tested on a virtual machine and efforts have been made to ensure its functionality, the Tool is provided "as is" without any guarantees or warranties of any kind. I cannot guarantee that the Tool will work flawlessly on all systems or that it will not cause any issues or damages.
+No Guarantees: Although the HWID Spoofing Tool has been tested on a virtual machine and efforts have been made to ensure its functionality, the Tool is provided "as is" without any guarantees or warranties of any kind. I cannot guarantee that the Tool will work flawlessly on all systems or that it will not cause any issues or damages.fg
 
 Limited Liability: I specifically DISCLAIM LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES arising out of the use or inability to use the HWID Spoofing Tool. In no event shall I be liable for any loss or damage suffered as a result of the use or misuse of the Tool, including but not limited to any direct, indirect, special, or consequential damages.
 
